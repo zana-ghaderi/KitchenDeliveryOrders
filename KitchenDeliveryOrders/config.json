@@ -1,0 +1,5 @@
+{
+    "order_frequency": 0.5,
+    "courier_arrival_time_range": [3, 15],
+    "number_of_orders": 10
+}
